@@ -32,7 +32,7 @@ public class MaxAndMin {
 			}	
 		
 		}
-		System.out.println("The max Value is: " + maxValue);
+		System.out.println("The max value is: " + maxValue);
 	}
 	
 	// finding min function
@@ -43,7 +43,7 @@ public class MaxAndMin {
 			}
 
 	    }
-		System.out.println("The min Value is: " + minValue);	
+		System.out.println("The min value is: " + minValue);	
 	}
 	
 }
